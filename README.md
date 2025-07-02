@@ -6,7 +6,7 @@ Bu Python uygulaması, kullanıcıdan karenin bir kenar uzunluğunu alır ve ala
 
 1. Uygulamayı çalıştır:
    ```bash
-   python kare_alan_hesapla.py
+   python kare_alanı_ölçme.py
 
 2. Kullanıcıdan alınan kenar uzunluğuna göre kare alanı hesaplanır ve ekrana yazdırılır.
 
